@@ -1,0 +1,45 @@
+.flex-cards {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.main-vacant {
+  width: 49%;
+  background-color: white;
+}
+
+.item-cards {
+  flex-direction: column;
+  gap: 10px;
+}
+.lgcustom {
+  padding: 3rem 1rem;
+}
+.ul-flex {
+  gap: 10px;
+  flex-direction: column;
+  display: flex;
+}
+
+@media (max-width: 1224px) {
+  .mdpad {
+    padding-inline: 1rem !important;
+  }
+}
+@media (max-width: 1024px) {
+  .lgcustom {
+    background-color: #f4f4f4;
+  }
+}
+@media (max-width: 700px) {
+  .lgcustom {
+    background-color: #f4f4f4;
+  }
+  .main-vacant {
+    width: 100%;
+  }
+  .lgcustom .tracking-wider {
+    background-color: #f4f4f4;
+  }
+}

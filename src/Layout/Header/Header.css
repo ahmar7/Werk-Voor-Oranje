@@ -1,0 +1,52 @@
+/* .bg-colored .bg-link {
+  background-color: rgba(60, 54, 107, var(--tw-bg-opacity)) !important;
+}
+.bg-colored .color-link {
+  color: white !important;
+} */
+.logoMy img {
+  width: 210px;
+}
+.lowmargin {
+  /* margin-left: 10px !important; */
+}
+.react-responsive-modal-modal {
+  padding-block: 3rem !important;
+  min-width: 400px;
+  border-radius: 10px;
+}
+.popup-email h1 {
+  font-weight: bold;
+}
+.popup-email input {
+  margin-top: 10px;
+  padding: 8px 10px;
+  outline: none;
+  width: 100%;
+  border: 1px solid rgb(182, 182, 182);
+  border-radius: 5px;
+}
+.popup-email button {
+  background-color: #fa9300;
+  text-align: center;
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin-inline: auto;
+  margin-top: 20px;
+  padding: 8px 20px;
+  border-radius: 5px;
+}
+@media (max-width: 1280px) {
+  .mdnone {
+    display: none;
+  }
+}
+@media (max-width: 768px) {
+  .react-responsive-modal-modal {
+    min-width: auto;
+  }
+  .logoMy img {
+    width: 250px;
+  }
+}

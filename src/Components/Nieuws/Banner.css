@@ -1,0 +1,25 @@
+.divider.divider-side {
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  height: 100%;
+  width: 5vw;
+  max-width: 72px;
+  -webkit-mask-image: url(data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMTAwIDEwMCcgd2lkdGg9JzEwMCUnIGhlaWdodD0nMTAwJScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSdub25lJz48cGF0aCBkPSdNMCwwIEMxNi42NjY2NjY3LDY2IDMzLjMzMzMzMzMsOTkgNTAsOTkgQzY2LjY2NjY2NjcsOTkgODMuMzMzMzMzMyw2NiAxMDAsMCBMMTAwLDEwMCBMMCwxMDAgTDAsMCBaJyBmaWxsPScjZmZmJyBmaWxsLXJ1bGU9J2V2ZW5vZGQnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKDUwLjAwMDAwMCwgNTAuMDAwMDAwKSByb3RhdGUoLTkwLjAwMDAwMCkgdHJhbnNsYXRlKC01MC4wMDAwMDAsIC01MC4wMDAwMDApJyAvPjwvc3ZnPg==);
+  mask-image: url(data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMTAwIDEwMCcgd2lkdGg9JzEwMCUnIGhlaWdodD0nMTAwJScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSdub25lJz48cGF0aCBkPSdNMCwwIEMxNi42NjY2NjY3LDY2IDMzLjMzMzMzMzMsOTkgNTAsOTkgQzY2LjY2NjY2NjcsOTkgODMuMzMzMzMzMyw2NiAxMDAsMCBMMTAwLDEwMCBMMCwxMDAgTDAsMCBaJyBmaWxsPScjZmZmJyBmaWxsLXJ1bGU9J2V2ZW5vZGQnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKDUwLjAwMDAwMCwgNTAuMDAwMDAwKSByb3RhdGUoLTkwLjAwMDAwMCkgdHJhbnNsYXRlKC01MC4wMDAwMDAsIC01MC4wMDAwMDApJyAvPjwvc3ZnPg==);
+  -webkit-mask-size: 100% 101%;
+  mask-size: 100% 101%;
+}
+.transform-flip-y {
+  transform: scaleX(-1);
+}
+.divider {
+  width: 100%;
+  position: relative;
+  height: 5vw;
+  pointer-events: none;
+  -webkit-mask-image: url(data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMTAwIDEwMCcgd2lkdGg9JzEwMCUnIGhlaWdodD0nMTAwJScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSdub25lJz48cGF0aCBkPSdNMCwwIEMxNi42NjY2NjY3LDY2IDMzLjMzMzMzMzMsOTggNTAsOTggQzY2LjY2NjY2NjcsOTggODMuMzMzMzMzMyw2NiAxMDAsMCBMMTAwLDEwMCBMMCwxMDAgTDAsMCBaJyBmaWxsPScjZmZmJy8+PC9zdmc+);
+  mask-image: url(data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMTAwIDEwMCcgd2lkdGg9JzEwMCUnIGhlaWdodD0nMTAwJScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSdub25lJz48cGF0aCBkPSdNMCwwIEMxNi42NjY2NjY3LDY2IDMzLjMzMzMzMzMsOTggNTAsOTggQzY2LjY2NjY2NjcsOTggODMuMzMzMzMzMyw2NiAxMDAsMCBMMTAwLDEwMCBMMCwxMDAgTDAsMCBaJyBmaWxsPScjZmZmJy8+PC9zdmc+);
+  -webkit-mask-size: 100% 101%;
+  mask-size: 100% 101%;
+}

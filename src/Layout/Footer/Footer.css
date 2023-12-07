@@ -1,0 +1,16 @@
+.bottom-banner .div-sec {
+  display: none;
+}
+.footer-area {
+  margin-top: 80px;
+}
+
+.footer-area .bg-footer {
+  background-color: #151515;
+}
+.bottom-banner .footer-area {
+  margin-top: 0;
+}
+.bottom-banner .paddbto {
+  padding-bottom: 50px;
+}

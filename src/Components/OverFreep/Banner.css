@@ -1,0 +1,17 @@
+.banner-bg {
+  background-image: url(../../Assets/img/headerBg.svg);
+}
+.banner-bg .divider-bottom {
+  min-height: 110px;
+}
+
+@media (max-width: 872px) {
+  .banner-bg {
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 230px;
+  }
+  .banner-bg .divider-bottom {
+    min-height: 70px;
+  }
+}
