@@ -1,6 +1,6 @@
 import React from "react";
 import "./Banner.css";
-const Banner = () => {
+const Banner = (props) => {
   return (
     <div className="relative overflow-hidden   banner-bg" data-v-1d5ee227>
       <main className="my-8  md:mt-20 relative z-10" data-v-1d5ee227>
@@ -13,14 +13,13 @@ const Banner = () => {
               className=" text-4xl tracking-tight leading-10 font-bold text-white sm:mt-5 sm:leading-none sm:text-6xl lg:mt-6 lg:text-5xl xl:text-6xl"
               data-v-1d5ee227
             >
-              Transparante ZZP Bemiddeling
+              {props.bannerTitle}
             </h1>{" "}
             <p
               className="mt-4 text-base text-gray-200 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl"
               data-v-1d5ee227
             >
-              Met een schat aan data en jarenlange ervaring helpen we je bij het
-              winnen van de opdracht
+              {props.bannerDesc}
             </p>
           </div>
         </div>

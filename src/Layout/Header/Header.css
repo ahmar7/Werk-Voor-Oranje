@@ -1,41 +1,71 @@
-/* .bg-colored .bg-link {
-  background-color: rgba(60, 54, 107, var(--tw-bg-opacity)) !important;
+.bg-link {
+  background-color: white !important;
 }
+/*
 .bg-colored .color-link {
   color: white !important;
 } */
 .logoMy img {
   width: 210px;
+  height: 32px;
 }
 .lowmargin {
   /* margin-left: 10px !important; */
 }
+.ml- {
+  margin-left: -18px !important;
+}
+.naar img {
+  width: 246px;
+  height: 38px;
+}
+.mainp {
+  display: flex;
+  gap: 30px;
+  margin-top: 20px;
+}
 .react-responsive-modal-modal {
-  padding-block: 3rem !important;
-  min-width: 400px;
+  padding-block: 5rem !important;
+  width: 80vw;
+  padding-inline: 3.5rem !important;
+  max-width: none !important;
   border-radius: 10px;
+  background: rgb(250, 147, 0);
+  background: rgb(250, 147, 0);
+  background: linear-gradient(
+    128deg,
+    rgba(250, 147, 0, 1) 0%,
+    rgba(255, 181, 76, 1) 100%
+  ) !important;
 }
 .popup-email h1 {
   font-weight: bold;
+  color: white !important;
 }
 .popup-email input {
-  margin-top: 10px;
-  padding: 8px 10px;
+  margin-top: 0px;
+  height: 38px;
+  padding: 0px 10px;
   outline: none;
   width: 100%;
   border: 1px solid rgb(182, 182, 182);
-  border-radius: 5px;
+  border-radius: 15px;
 }
 .popup-email button {
-  background-color: #fa9300;
+  background-color: #ffffff;
   text-align: center;
-  color: white;
+  color: #fa9300;
+  font-weight: bold;
+
   display: flex;
   justify-content: center;
   margin-inline: auto;
-  margin-top: 20px;
+  margin-top: 0px;
   padding: 8px 20px;
-  border-radius: 5px;
+  border-radius: 15px;
+}
+.react-responsive-modal-closeButton svg {
+  fill: white !important;
 }
 @media (max-width: 1280px) {
   .mdnone {
@@ -48,5 +78,29 @@
   }
   .logoMy img {
     width: 250px;
+    height: 39px;
+  }
+  .react-responsive-modal-modal {
+    padding-block: 2rem !important;
+    width: 90%;
+    padding-inline: 3rem !important;
+    max-width: none !important;
+    border-radius: 10px;
+    background: rgb(250, 147, 0);
+    background: rgb(250, 147, 0);
+    background: linear-gradient(
+      128deg,
+      rgba(250, 147, 0, 1) 0%,
+      rgba(255, 181, 76, 1) 100%
+    ) !important;
+  }
+}
+
+@media (max-width: 526px) {
+  .react-responsive-modal-modal {
+    padding-inline: 20px !important;
+  }
+  .mainp {
+    gap: 15px;
   }
 }

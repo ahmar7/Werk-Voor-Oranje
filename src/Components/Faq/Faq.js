@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./faq.css";
+
 import Accordion from "./faqContent";
 import { Link } from "react-router-dom";
 const Faq = () => {

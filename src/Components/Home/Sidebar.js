@@ -51,7 +51,6 @@ const Sidebar = () => {
                   autoComplete="email"
                   required="required"
                   placeholder="Je e-mailadres"
-                  defaultValue
                   className="mr-1 text-sm w-full px-4 py-2 placeholder-gray-500 focus:ring-indigo-500 focus:border-indigo-600 sm:max-w-xs border-gray-300 rounded-md"
                 />
                 <div className="mt-3 rounded-md shadow sm:mt-0  sm:flex-shrink-0">
@@ -93,7 +92,6 @@ const Sidebar = () => {
                 type="search"
                 placeholder="Zoeken ..."
                 aria-label="zoek opdrachten"
-                defaultValue
                 className="hidden lg:block w-full border border-gray-300 bg-white focus:outline-none focus:bg-white focus:border-gray-300  rounded-xl py-3 px-4"
               />
             </div>

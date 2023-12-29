@@ -3,7 +3,7 @@ import Whysvg from "../../Assets/img/22.svg";
 const WhyUs = () => {
   return (
     <div
-      className="mx-auto flex justify-center relative py-8 bg-gray-100 md:px-12"
+      className="mx-auto m- overfro  flex justify-center relative py-8 bg-gray-100 md:px-12"
       data-v-6764eb96
     >
       <div className="text-center max-w-7xl" data-v-6764eb96>
@@ -24,39 +24,43 @@ const WhyUs = () => {
             data-v-6764eb96
           >
             <h2 className="text-2xl font-bold" data-v-6764eb96>
-              Waarom Werk Voor Oranje Detachering?
+              Ontdek Vrijheid en Gemak in Jouw Opdrachten
             </h2>{" "}
             <div
               className="leading-relaxed text-lg mt-4 text-gray-600 space-y-2"
               data-v-6764eb96
             >
               <p data-v-6764eb96>
-                Werk Voor Oranje is opgericht om zelfstandig professionals te
-                helpen bij het vinden van een opdracht. We bemiddelen zzp'ers
-                binnen de overheid op freelance basis. Toch hebben we recent
-                besloten om ook detachering aan te bieden.
+                Wij streven er altijd naar om zelfstandige professionals te
+                ondersteunen bij het vinden van passende opdrachten binnen de
+                non-profitsector. Terwijl we bekend staan om onze expertise in
+                werving en selectie, hebben we recentelijk ons dienstenaanbod
+                uitgebreid om ook detachering aan te bieden.
               </p>
               <p data-v-6764eb96 />
               <p data-v-6764eb96>
-                In het kader van{" "}
-                <a
-                  href="https://www.belastingdienst.nl/wps/wcm/connect/nl/modelovereenkomsten/modelovereenkomsten"
-                  target="_blank"
-                  className="underline"
-                  data-v-6764eb96
-                >
-                  de Wet DBA
-                </a>
-                , vinden sommige overheidsorganisaties het belangrijk dat een
-                opdracht wordt uitgevoerd in loondienstverband. Om
-                aansprakelijkheid voor loonheffing te voorkomen vragen zij om
-                kandidaten die (tijdelijk) in loondienst zijn.
+                In een continu veranderend landschap van wet- en regelgeving,
+                waaronder de Wet DBA, begrijpen we dat sommige
+                overheidsorganisaties de voorkeur geven aan professionals die
+                (tijdelijk) in loondienstverband werken. Deze voorkeur kan
+                voortkomen uit de wens om de aansprakelijkheid voor
+                loonheffingen te minimaliseren.
               </p>{" "}
               <p data-v-6764eb96>
-                Met Werk Voor Oranje Detachering geven we opdrachtgevers
-                zekerheid en jou de vrijheid en (bijna) alle inkomsten die je
-                hebt als ondernemer. Hieronder lees je meer over de voorwaarden
-                en de veel gestelde vragen.
+                Met Werk voor Oranje Detachering bieden we niet alleen
+                opdrachtgevers zekerheid, maar geven we ook jou, als
+                professional, de vrijheid om (bijna) alle voordelen te behouden
+                die je als ondernemer hebt. Hierbij kun je denken aan
+                flexibiliteit en de mogelijkheid om je te concentreren op je
+                vakgebied, terwijl wij de administratieve zaken voor onze
+                rekening nemen.
+              </p>
+              <p data-v-6764eb96>
+                Wat Werk voor Oranje Detachering onderscheidt, is ons begrip van
+                de unieke behoeften van zowel opdrachtgevers als professionals.
+                We streven naar een soepele samenwerking die niet alleen voldoet
+                aan de eisen van de wetgeving maar ook aan jouw professionele
+                ambities en de behoeften van de organisatie waarvoor je werkt.
               </p>
             </div>
           </div>

@@ -1,5 +1,5 @@
 import React from "react";
-
+import "./Reusable.css";
 const Mission = () => {
   return (
     <div className="py-20 bg-white" data-v-1d5ee227>
@@ -9,18 +9,13 @@ const Mission = () => {
             Missie
           </p>{" "}
           <p className="mt-4 max-w-6xl text-2xl text-gray-600 lg:mx-auto">
-            We helpen interim professionals binnen het publieke domein succesvol
-            te ondernemen
-          </p>
-        </div>{" "}
-        <div className="lg:text-center mt-8  md:mt-12">
-          <p className="mt-2 text-2xl leading-8 font-bold tracking-tight text-gray-700 sm:text-2xl">
-            Dit zijn onze kernwaarden
+            Sociale Impact, Persoonlijke Groei: Werk voor Oranje Brengt Samen
+            Vooruit.
           </p>
         </div>{" "}
         <div className="mt-10">
-          <dl className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
-            <div className="flex">
+          <dl className="space-y-10 md:space-y-0 md:grid md:grid-cols-0 md:gap-x-0 md:gap-y-10 mine-work">
+            <div className="flex mans">
               <div className="flex-shrink-0">
                 <div className="flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
                   <svg
@@ -41,15 +36,17 @@ const Mission = () => {
               </div>{" "}
               <div className="ml-4">
                 <dt className="text-lg leading-6 font-medium text-gray-900">
-                  Eerlijk
+                  Flexibel
                 </dt>{" "}
                 <dd className="mt-2 text-base text-gray-500">
-                  Wij zijn eerlijk naar zzp'ers over de kansen op het succesvol
-                  krijgen van een opdracht en de tarieven die daarbij horen.
+                  Onze missie is om flexibele oplossingen te bieden, waaronder
+                  interim-opdrachten en detachering, en zo een partnerschap op
+                  te bouwen dat gericht is op groei en succes op de lange
+                  termijn.
                 </dd>
               </div>
             </div>{" "}
-            <div className="flex">
+            <div className="flex mans">
               <div className="flex-shrink-0">
                 <div className="flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
                   <svg
@@ -70,15 +67,18 @@ const Mission = () => {
               </div>{" "}
               <div className="ml-4">
                 <dt className="text-lg leading-6 font-medium text-gray-900">
-                  Transparant
+                  Expertise in matchmaking
                 </dt>{" "}
                 <dd className="mt-2 text-base text-gray-500">
-                  We zijn open over onze opdrachtgevers, bronnen en
-                  vergoedingen. We delen alle data die we beschikbaar hebben.
+                  Ons kennis is gericht op het matchen van professionals met de
+                  juiste opdrachten binnen de overheid en gemeenten. Onze missie
+                  is gebaseerd op het benutten van deze expertise om succesvolle
+                  en duurzame matches te realiseren die zowel professionals als
+                  opdrachtgevers ten goede komen.
                 </dd>
               </div>
             </div>{" "}
-            <div className="flex">
+            <div className="flex mans">
               <div className="flex-shrink-0">
                 <div className="flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
                   <svg
@@ -105,16 +105,18 @@ const Mission = () => {
               </div>{" "}
               <div className="ml-4">
                 <dt className="text-lg leading-6 font-medium text-gray-900">
-                  Ambitieus
+                  Kwaliteit en betrouwbaarheid
                 </dt>{" "}
                 <dd className="mt-2 text-base text-gray-500">
-                  We willen zoveel mogelijk zzp'ers helpen. We zijn ondernemend
-                  en willen onszelf en daarmee onze dienstverlening elke dag
-                  verbeteren.
+                  Onze toewijding aan kwaliteit, betrouwbaarheid en een
+                  persoonlijke aanpak vormt de kern van Werk voor Oranje. Wij
+                  streven ernaar om op deze principes te bouwen en hoogwaardige
+                  wervingsoplossingen te bieden die voldoen aan de unieke
+                  behoeften van elke organisatie en professional.
                 </dd>
               </div>
             </div>{" "}
-            <div className="flex">
+            <div className="flex mans">
               <div className="flex-shrink-0">
                 <div className="flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
                   <svg
@@ -138,8 +140,12 @@ const Mission = () => {
                   Innovatief
                 </dt>{" "}
                 <dd className="mt-2 text-base text-gray-500">
-                  IT en Data zijn ons startpunt om te innoveren en te
-                  optimaliseren.
+                  Ons geavanceerde matchingssysteem koppelt getalenteerde
+                  professionals aan relevante non-profit opdrachten. Met
+                  cutting-edge technologie begrijpen we niet alleen vaardigheden
+                  maar ook culturele fit. Wij staan voor een nieuwe dimensie van
+                  werven, waar technologie en toewijding samenkomen voor
+                  waardevolle verbindingen.
                 </dd>
               </div>
             </div>

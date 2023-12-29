@@ -8,7 +8,7 @@ const Home = () => {
   return (
     <div>
       <Top />
-      <div id="app" class="  antialiased">
+      <div id="app" class="antialiased">
         <Header />
         <Body />
         <Footer />

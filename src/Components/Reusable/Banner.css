@@ -1,7 +1,9 @@
 .banner-bg {
   background-image: url(../../Assets/img/headerBg.svg);
+  background-color: white !important;
 }
 .banner-bg .divider-bottom {
+  background-color: white !important;
   min-height: 110px;
 }
 

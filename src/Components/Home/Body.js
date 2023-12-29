@@ -17,7 +17,7 @@ const Body = () => {
           data-v-4d4e8e34
         >
           <div
-            className="block lg:hidden text-base text-gray-500 mt-12 "
+            className="block lg:hidden text-base text-gray-500   "
             data-v-4d4e8e34
           >
             <div
@@ -84,12 +84,11 @@ const Body = () => {
                       autoComplete="email"
                       required="required"
                       placeholder="Je e-mailadres"
-                      defaultValue
                       className="w-full border-white px-5 py-3 placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-indigo-700 focus:ring-white rounded-md"
                     />
                     <button
                       type="submit"
-                      className="cursor-pointer mt-3 w-full flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-green-700 hover:bg-green-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-green-700 focus:ring-white sm:mt-0 sm:ml-3 sm:w-auto sm:flex-shrink-0"
+                      className="cursor-pointer mt-3 w-full flex items-center justify-center   px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-green-700 hover:bg-green-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-green-700 focus:ring-white sm:mt-0 sm:ml-3 sm:w-auto sm:flex-shrink-0"
                     >
                       Activeer
                     </button>
@@ -106,7 +105,7 @@ const Body = () => {
                 className="mb-4 max-w-lg mx-auto sm:rounded-2xl shadow-lg overflow-hidden lg:max-w-none lg:flex  duration-200 ease-in-out transform border border-gray-200  hover:shadow-md "
                 data-v-4d4e8e34
               >
-                <div className="flex sm:hidden pt-12 px-8 bg-white lg:flex-shrink-0">
+                <div className="flex sm:hidden pt-12 px-8 bg-white lg:flex-shrink-0 mbp-no">
                   <img
                     src="https://freepapi-assets.s3.amazonaws.com/media/logos/None/stedin.png"
                     alt="zzp opdracht bij Stedin Groep"
@@ -293,7 +292,6 @@ const Body = () => {
                       autoComplete="email"
                       required="required"
                       placeholder="Je e-mailadres"
-                      defaultValue
                       className="w-full border-white px-5 py-3 placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-indigo-700 focus:ring-white rounded-md"
                     />
                     <button
@@ -317,7 +315,7 @@ const Body = () => {
                 className="mb-4 max-w-lg mx-auto sm:rounded-2xl shadow-lg overflow-hidden lg:max-w-none lg:flex  duration-200 ease-in-out transform border border-gray-200  hover:shadow-md "
                 data-v-4d4e8e34
               >
-                <div className="flex sm:hidden pt-12 px-8 bg-white lg:flex-shrink-0">
+                <div className="flex sm:hidden pt-12 px-8 bg-white lg:flex-shrink-0 mbp-no">
                   <img
                     src="https://freepapi-assets.s3.amazonaws.com/media/logos/None/stedin.png"
                     alt="zzp opdracht bij Stedin Groep"
@@ -511,7 +509,6 @@ const Body = () => {
                       autoComplete="email"
                       required="required"
                       placeholder="Je e-mailadres"
-                      defaultValue
                       className="w-full border-white px-5 py-3 placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-indigo-700 focus:ring-white rounded-md"
                     />
                     <button
@@ -535,7 +532,7 @@ const Body = () => {
                 className="mb-4 max-w-lg mx-auto sm:rounded-2xl shadow-lg overflow-hidden lg:max-w-none lg:flex  duration-200 ease-in-out transform border border-gray-200  hover:shadow-md "
                 data-v-4d4e8e34
               >
-                <div className="flex sm:hidden pt-12 px-8 bg-white lg:flex-shrink-0">
+                <div className="flex sm:hidden pt-12 px-8 bg-white lg:flex-shrink-0 mbp-no">
                   <img
                     src="https://freepapi-assets.s3.amazonaws.com/media/logos/None/gemeente-kampen-300x200.png"
                     alt="zzp opdracht bij Gemeente Kampen"
@@ -728,7 +725,6 @@ const Body = () => {
                       autoComplete="email"
                       required="required"
                       placeholder="Je e-mailadres"
-                      defaultValue
                       className="w-full border-white px-5 py-3 placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-indigo-700 focus:ring-white rounded-md"
                     />
                     <button
@@ -752,7 +748,7 @@ const Body = () => {
                 className="mb-4 max-w-lg mx-auto sm:rounded-2xl shadow-lg overflow-hidden lg:max-w-none lg:flex  duration-200 ease-in-out transform border border-gray-200  hover:shadow-md "
                 data-v-4d4e8e34
               >
-                <div className="flex sm:hidden pt-12 px-8 bg-white lg:flex-shrink-0">
+                <div className="flex sm:hidden pt-12 px-8 bg-white lg:flex-shrink-0 mbp-no">
                   <img
                     src="https://freepapi-assets.s3.amazonaws.com/media/logos/None/logo_dronten.png"
                     alt="zzp opdracht bij Gemeente Dronten"
@@ -945,7 +941,6 @@ const Body = () => {
                       autoComplete="email"
                       required="required"
                       placeholder="Je e-mailadres"
-                      defaultValue
                       className="w-full border-white px-5 py-3 placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-indigo-700 focus:ring-white rounded-md"
                     />
                     <button
@@ -969,7 +964,7 @@ const Body = () => {
                 className="mb-4 max-w-lg mx-auto sm:rounded-2xl shadow-lg overflow-hidden lg:max-w-none lg:flex  duration-200 ease-in-out transform border border-gray-200  hover:shadow-md "
                 data-v-4d4e8e34
               >
-                <div className="flex sm:hidden pt-12 px-8 bg-white lg:flex-shrink-0">
+                <div className="flex sm:hidden pt-12 px-8 bg-white lg:flex-shrink-0 mbp-no">
                   <img
                     src="https://freepapi-assets.s3.amazonaws.com/media/logos/50/logo-gemeente-soest.png"
                     alt="zzp opdracht bij Gemeente Soest"
@@ -1162,7 +1157,6 @@ const Body = () => {
                       autoComplete="email"
                       required="required"
                       placeholder="Je e-mailadres"
-                      defaultValue
                       className="w-full border-white px-5 py-3 placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-indigo-700 focus:ring-white rounded-md"
                     />
                     <button
@@ -1186,7 +1180,7 @@ const Body = () => {
                 className="mb-4 max-w-lg mx-auto sm:rounded-2xl shadow-lg overflow-hidden lg:max-w-none lg:flex  duration-200 ease-in-out transform border border-gray-200  hover:shadow-md "
                 data-v-4d4e8e34
               >
-                <div className="flex sm:hidden pt-12 px-8 bg-white lg:flex-shrink-0">
+                <div className="flex sm:hidden pt-12 px-8 bg-white lg:flex-shrink-0 mbp-no">
                   <img
                     src="https://freepapi-assets.s3.amazonaws.com/media/logos/50/logo-gemeente-soest.png"
                     alt="zzp opdracht bij Gemeente Soest"
@@ -1379,7 +1373,6 @@ const Body = () => {
                       autoComplete="email"
                       required="required"
                       placeholder="Je e-mailadres"
-                      defaultValue
                       className="w-full border-white px-5 py-3 placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-indigo-700 focus:ring-white rounded-md"
                     />
                     <button
@@ -1403,7 +1396,7 @@ const Body = () => {
                 className="mb-4 max-w-lg mx-auto sm:rounded-2xl shadow-lg overflow-hidden lg:max-w-none lg:flex  duration-200 ease-in-out transform border border-gray-200  hover:shadow-md "
                 data-v-4d4e8e34
               >
-                <div className="flex sm:hidden pt-12 px-8 bg-white lg:flex-shrink-0">
+                <div className="flex sm:hidden pt-12 px-8 bg-white lg:flex-shrink-0 mbp-no">
                   <img
                     src="https://freepapi-assets.s3.amazonaws.com/media/logos/320/logo_provincie_utrecht.png"
                     alt="zzp opdracht bij Provincie Utrecht"
@@ -1546,6 +1539,223 @@ const Body = () => {
                   </div>
                 </div>
               </NavLink>
+            </div>
+            <div style={{ width: "100%" }} data-v-4d4e8e34>
+              <div
+                data-v-4d4e8e34
+                className="relative py-10 px-8 bg-indigo-700 rounded-none sm:rounded-2xl  lg:flex lg:items-start mb-4 shadow-lg"
+              >
+                <div
+                  aria-hidden="true"
+                  className="absolute inset-1 -mt-72 sm:-mt-32 md:mt-0 rounded-2xl"
+                >
+                  <svg
+                    preserveAspectRatio="xMidYMid slice"
+                    xmlns="http://www.w3.org/2000/svg"
+                    fill="none"
+                    viewBox="0 0 1463 360"
+                    className="absolute inset-0 h-full w-full"
+                  >
+                    <path
+                      fill="currentColor"
+                      d="M-82.673 72l1761.849 472.086-134.327 501.315-1761.85-472.086z"
+                      className="text-indigo-500 text-opacity-40"
+                    />{" "}
+                    <path
+                      fill="currentColor"
+                      d="M-217.088 544.086L1544.761 72l134.327 501.316-1761.849 472.086z"
+                      className="text-indigo-800 text-opacity-40"
+                    />
+                  </svg>
+                </div>{" "}
+                <div className="relative lg:w-0 lg:flex-1">
+                  <h2 className="text-3xl font-extrabold tracking-tight text-white">
+                    Mis geen opdracht!
+                  </h2>{" "}
+                  <p className="mt-2 max-w-3xl text-base text-indigo-100">
+                    Ontvang jouw zoekopdracht als e-mailalert
+                  </p>
+                </div>{" "}
+                <div className="relative mt-12 sm:w-full sm:max-w-md lg:mt-0 lg:ml-8 lg:flex-1">
+                  <form className="sm:flex">
+                    <label htmlFor="email-address" className="sr-only">
+                      E-mailadres
+                    </label>{" "}
+                    <input
+                      id="email"
+                      name="email"
+                      type="email"
+                      autoComplete="email"
+                      required="required"
+                      placeholder="Je e-mailadres"
+                      className="w-full border-white px-5 py-3 placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-indigo-700 focus:ring-white rounded-md"
+                    />{" "}
+                    <button
+                      type="submit"
+                      className="cursor-pointer btnso mt-3 w-full flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-green-700 hover:bg-green-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-green-700 focus:ring-white sm:mt-0 sm:ml-3 sm:w-auto sm:flex-shrink-0"
+                    >
+                      Activeer
+                    </button>
+                  </form>{" "}
+                  <p className="mt-3 text-xs text-white">
+                    We vinden privacy belangrijk, lees onze
+                    <a href="/privacy" className="font-medium underline">
+                      privacy verklaring
+                    </a>
+                  </p>
+                </div>
+              </div>{" "}
+              <a
+                data-v-4d4e8e34
+                href="/opdracht/w2024-28-jurist-vth-met-taakaccent-bezwaar-en-beroep-op-huisvesting-arbeidsmigranten"
+                className="mb-4 max-w-lg mx-auto sm:rounded-2xl shadow-lg overflow-hidden lg:max-w-none lg:flex transition duration-200 ease-in-out transform border border-gray-200  hover:shadow-md "
+                aria-label="zzp opdracht jurist vth met taakaccent bezwaar en beroep op huisvesting arbeidsmigranten bij Gemeente Meierijstad"
+                style={{ display: "none" }}
+              >
+                <div className="flex sm:hidden pt-12 px-8 bg-white lg:flex-shrink-0 mbp-no">
+                  <img
+                    src="https://freepapi-assets.s3.amazonaws.com/media/logos/None/logo_meierijstad.png"
+                    alt="zzp opdracht bij Gemeente Meierijstad"
+                    className="relative h-16  object-scale-down lazyloaded"
+                  />
+                </div>{" "}
+                <div className="flex-1 bg-white p-10 lg:p-12">
+                  <div className="hidden lg:flex fixed top-4 right-4">
+                    <span
+                      className="ml-4 inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-pink-50 text-pink-800"
+                      style={{ display: "none" }}
+                    >
+                      detachering
+                    </span>{" "}
+                    <span className="ml-4 inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-green-50 text-green-800">
+                      freelance
+                    </span>
+                  </div>{" "}
+                  <div className="flex items-center justify-start lg:space-x-8 space-x-0">
+                    <div className="w-32 hidden sm:flex">
+                      <img
+                        src="https://freepapi-assets.s3.amazonaws.com/media/logos/None/logo_meierijstad.png"
+                        alt="zzp opdracht bij Gemeente Meierijstad"
+                        className="relative h-12 w-full object-scale-down lazyloaded"
+                      />
+                    </div>{" "}
+                    <div className="space-y-2 lg:space-y-0">
+                      <h3 className="text-xl leading-8 font-semibold text-indigo-900  sm:leading-9">
+                        jurist vth met taakaccent bezwaar en beroep op
+                        huisvesting arbeidsmigranten
+                      </h3>{" "}
+                      <p className=" text-base leading-6 text-gray-600">
+                        Gemeente Meierijstad
+                      </p>
+                    </div>
+                  </div>{" "}
+                  <div className="mt-8">
+                    <div className="flex items-center lg:hidden lg:mb-0 mb-4">
+                      <h4 className="flex-shrink-0 pr-4 bg-white text-sm leading-5 tracking-wider font-semibold uppercase text-indigo-600">
+                        Over de opdracht
+                      </h4>{" "}
+                      <div className="flex-1 border-t-2 border-gray-200" />{" "}
+                      {/**/}{" "}
+                      <span className="lg:hidden inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-green-50 text-green-800">
+                        freelance
+                      </span>
+                    </div>{" "}
+                    <div className="flex justify-between items-center">
+                      <div className="hidden xl:flex items-center">
+                        <h4 className="flex-shrink-0 pr-4 bg-white text-sm leading-5 tracking-wider font-semibold uppercase text-indigo-600">
+                          Over de opdracht
+                        </h4>{" "}
+                        <div className="flex-1 border-t-2 border-gray-200" />
+                      </div>{" "}
+                      <div>
+                        <ul className="lg:grid lg:grid-cols-3 lg:gap-x-12 lg:gap-y-5">
+                          <li className="flex items-start lg:col-span-1">
+                            <div className="flex-shrink-0">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                fill="none"
+                                viewBox="0 0 24 24"
+                                stroke="currentColor"
+                                className="h-5 w-5 text-gray-800"
+                              >
+                                <path
+                                  strokeLinecap="round"
+                                  strokeLinejoin="round"
+                                  strokeWidth={2}
+                                  d="M14.121 15.536c-1.171 1.952-3.07 1.952-4.242 0-1.172-1.953-1.172-5.119 0-7.072 1.171-1.952 3.07-1.952 4.242 0M8 10.5h4m-4 3h4m9-1.5a9 9 0 11-18 0 9 9 0 0118 0z"
+                                />
+                              </svg>
+                            </div>{" "}
+                            <p className="ml-3 text-sm leading-5 text-gray-700">
+                              max € 107 p/u
+                            </p>{" "}
+                            <p
+                              className="ml-3 text-sm leading-5 text-gray-700"
+                              style={{ display: "none" }}
+                            >
+                              geen max tarief
+                            </p>
+                          </li>{" "}
+                          <li className="mt-5 flex items-start lg:col-span-1 lg:mt-0">
+                            <div className="flex-shrink-0">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                fill="none"
+                                viewBox="0 0 24 24"
+                                stroke="currentColor"
+                                className="h-5 w-5 text-gray-800"
+                              >
+                                <path
+                                  strokeLinecap="round"
+                                  strokeLinejoin="round"
+                                  strokeWidth={2}
+                                  d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"
+                                />{" "}
+                                <path
+                                  strokeLinecap="round"
+                                  strokeLinejoin="round"
+                                  strokeWidth={2}
+                                  d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"
+                                />
+                              </svg>
+                            </div>{" "}
+                            <p className="ml-3 text-sm leading-5 text-gray-700">
+                              Noord-Brabant
+                            </p>
+                          </li>{" "}
+                          <li className="mt-5 flex items-start lg:col-span-1 lg:mt-0">
+                            <div className="flex-shrink-0">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                fill="none"
+                                viewBox="0 0 24 24"
+                                stroke="currentColor"
+                                className="h-5 w-5 text-gray-800"
+                              >
+                                <path
+                                  strokeLinecap="round"
+                                  strokeLinejoin="round"
+                                  strokeWidth={2}
+                                  d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"
+                                />
+                              </svg>
+                            </div>{" "}
+                            <p className="ml-3 text-sm leading-5 text-gray-700">
+                              28 uur p/w
+                            </p>{" "}
+                            <p
+                              className="ml-3 text-sm leading-5 text-gray-700"
+                              style={{ display: "none" }}
+                            >
+                              Onbekend
+                            </p>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </a>
             </div>
           </div>
         </div>

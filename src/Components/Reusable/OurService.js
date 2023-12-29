@@ -139,38 +139,39 @@ const OurService = () => {
               </ul>
             </nav>{" "}
             <div className="bg-white">
-              <div className="max-w-screen-xl mx-auto">
+              <div className="max-w-screen-xl mx-auto steps">
                 {/* step 1 */}
                 {firstStep && (
                   <div className="bg-indigo-700 rounded-b-lg shadow-xl overflow-hidden lg:grid lg:grid-cols-2 lg:gap-4">
                     <div className="pt-10 pb-12 px-6 sm:pt-16 sm:px-16 lg:py-16 lg:pr-0 xl:py-20 xl:px-20">
                       <div className="lg:self-center">
                         <h2 className="text-3xl leading-9 font-extrabold text-white sm:text-4xl sm:leading-10">
-                          <span className="block">
-                            Binnen 1 werkdag reactie
-                          </span>
+                          <span className="block">Binnen 24 uur reactie</span>
                         </h2>{" "}
                         <div className="mt-4 text-base leading-6 text-indigo-200">
                           <ul className="list-disc pl-4 space-y-2">
                             <li>
-                              We beoordelen je CV om te zien of er een match is.
+                              Binnen 24 uur mag je een reactie van ons
+                              verwachten om te beoordelen of jouw profiel
+                              voldoet aan de eisen van de betreffende opdracht.
+                              Als er een match is, nemen we contact met je op om
+                              de vervolgstappen te bespreken. Aangezien het om
+                              een aanbesteding gaat, streven we ernaar om jouw
+                              kansen te optimaliseren door gezamenlijk het
+                              traject te doorlopen.
                             </li>{" "}
                             <li>
-                              We controleren of je voldoet aan de eisen en
-                              wensen.
+                              Als wij van mening zijn dat je niet volledig
+                              aansluit bij de opdracht, gaan we alsnog het
+                              gesprek met je aan. We kijken samen naar eventuele
+                              aandachtspunten en gaan actief op zoek naar
+                              opdrachten die beter aansluiten bij jouw
+                              vaardigheden en ervaring. Ons doel is om jouw
+                              professionele groei te bevorderen, zelfs als de
+                              huidige opdracht niet de perfecte match blijkt te
+                              zijn.
                             </li>{" "}
-                            <li>
-                              We onderzoeken op basis van data of je gewenste
-                              tarief concurrerend is.
-                            </li>
                           </ul>{" "}
-                          <p className="mt-4">
-                            Omdat het proces verloopt via een aanbesteding is
-                            het belangrijk dat je een goede kans maakt om de
-                            opdracht te winnen. Bij een match starten we het
-                            offertetraject, bij twijfel laten we dit binnen 1
-                            werkdag weten.
-                          </p>
                         </div>
                       </div>
                     </div>{" "}
@@ -191,29 +192,33 @@ const OurService = () => {
                     <div className="pt-10 pb-12 px-6 sm:pt-16 sm:px-16 lg:py-16 lg:pr-0 xl:py-20 xl:px-20">
                       <div className="lg:self-center">
                         <h2 className="text-3xl leading-9 font-extrabold text-white sm:text-4xl sm:leading-10">
-                          <span className="block">Introductie</span>
+                          <span className="block">Procedure aanbesteding</span>
                         </h2>{" "}
                         <div className="mt-4 text-base leading-6 text-indigo-200">
                           <p className="mt-4">
-                            De procedure verloopt via een aanbesteding. De
-                            eerste introductie doen wij daarom op papier.
+                            Nu is het jouw beurt om te schitteren.
                           </p>{" "}
                           <ul className="list-disc pl-4 mt-4 space-y-2">
                             <li>
-                              We werken samen een offerte uit waarin we
-                              toelichten waarom jouw profiel aansluit op de
-                              gestelde eisen en wensen.
+                              Als enige kandidaat die we voordragen, vragen we
+                              je om beschikbaar te blijven voor de opdracht. We
+                              willen de opdrachtgever niet teleurstellen, en
+                              jouw inzet en beschikbaarheid zijn hierbij
+                              cruciaal. We streven naar transparantie gedurende
+                              het hele proces.
                             </li>{" "}
                             <li>
-                              We verzamelen de benodigde stukken indien gevraagd
-                              zoals referenties, diploma's, motivatiebrief, VOG
-                              etc...
+                              Omdat de procedure verloopt via een aanbesteding,
+                              beginnen we met een papieren introductie. Samen
+                              met jou werken we een gedegen offerte uit waarin
+                              we duidelijk toelichten waarom jouw profiel
+                              perfect aansluit op de gestelde eisen en wensen.
                             </li>{" "}
                             <li>
-                              Op basis van data bepalen we een kansrijk
-                              uurtarief voor de offerte. Jij hebt zelf
-                              natuurlijk het laatste woord in het
-                              biedingstarief.
+                              Op basis van data bepalen we samen een kansrijk
+                              uurtarief voor de offerte. Uiteraard heb jij
+                              hierin het laatste woord, want jouw tevredenheid
+                              en vertrouwen zijn van het grootste belang.
                             </li>
                           </ul>
                         </div>
@@ -235,30 +240,28 @@ const OurService = () => {
                     <div className="pt-10 pb-12 px-6 sm:pt-16 sm:px-16 lg:py-16 lg:pr-0 xl:py-20 xl:px-20 col-span-3">
                       <div className="lg:self-center">
                         <h2 className="text-3xl leading-9 font-extrabold text-white sm:text-4xl sm:leading-10">
-                          <span className="block">Aan de slag</span>
+                          <span className="block">Van start gaan</span>
                         </h2>{" "}
                         <div className="mt-4 text-base leading-6 text-indigo-200">
                           <p className="mt-4">
-                            Wij houden van eerlijk en transparant zaken doen.
-                            Als je aan slag gaat via Werk Voor Oranje hanteren
-                            we de volgende voorwaarden:
+                            Tijd om aan de slag te gaan! Met het afronden van de
+                            aanmeldingsfase is de eerste stap gezet. Gedurende
+                            het gehele traject van de opdracht blijven wij in
+                            contact om ervoor te zorgen dat alles naar wens
+                            verloopt. Aarzel niet om contact met ons op te nemen
+                            als je vragen hebt of advies nodig hebt.
                           </p>{" "}
-                          <ul className="list-disc pl-4 mt-4 space-y-2">
-                            <li>
-                              We vragen 10% marge over je uurtarief voor de duur
-                              van de opdracht.
-                            </li>{" "}
-                            <li>
-                              We betalen je factuur binnen 16 dagen, je hoeft
-                              dus niet op je geld te wachten!
-                            </li>{" "}
-                            <li>
-                              Als jij je opdracht goed doet en daardoor bij de
-                              dezelfde opdrachtgever een nieuwe opdracht mag
-                              doen dan ben je daar volledig vrij in! We hanteren
-                              geen concurrentie-/ relatiebeding.
-                            </li>
-                          </ul>
+                          <p className="mt-4">
+                            Na afloop van de opdracht ben je vrij om te
+                            verlengen. Als verlenging geen optie is, staan wij
+                            klaar om je te ondersteunen bij het vinden van de
+                            meest geschikte vervolgopdracht die perfect aansluit
+                            bij jouw vaardigheden en ambities. Bij Werk voor
+                            Oranje gaat het niet alleen om het afronden van
+                            opdrachten, maar om het bouwen van een duurzame
+                            relatie en het faciliteren van jouw succes op de
+                            lange termijn.
+                          </p>{" "}
                         </div>{" "}
                         {/**/}
                       </div>

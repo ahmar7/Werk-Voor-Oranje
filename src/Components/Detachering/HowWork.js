@@ -3,7 +3,7 @@ import HowSvg from "../../Assets/img/14.svg";
 const HowWork = () => {
   return (
     <div
-      className="mx-auto flex justify-center relative py-16 bg-white md:px-12"
+      className="mx-auto flex justify-center relative py-16 bg-gray-100 bg-100 md:px-12"
       data-v-6764eb96
     >
       <div className="text-center max-w-7xl" data-v-6764eb96>
@@ -16,40 +16,42 @@ const HowWork = () => {
             data-v-6764eb96
           >
             <h2 className="text-2xl font-bold" data-v-6764eb96>
-              Hoe werkt Werk Voor Oranje Detachering?
+              Hoe gaat detachering te werk?
             </h2>{" "}
             <div
               className="leading-relaxed text-lg mt-4 text-gray-600 space-y-2"
               data-v-6764eb96
             >
               <p data-v-6764eb96>
-                Jij kan bij Werk Voor Oranje voor de duur van de opdracht op de
-                loonlijst komen. Hiervoor ga je met Werk Voor Oranje een
-                overeenkomst aan met betrekking tot de opdracht, zodat je
-                vervolgens jouw detacheringsopdracht kan uitvoeren bij een
-                overheidsorganisatie.
+                Bij Werk voor Oranje Detachering streven we naar een moeiteloze
+                werkwijze, zodat jij als professional flexibel opdrachten kunt
+                uitvoeren binnen de non-profitsector. Hier is een beknopte
+                uitleg van ons detacheringsproces:
               </p>{" "}
               <p data-v-6764eb96>
-                Daarnaast vullen we beiden een{" "}
-                <a
-                  href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/verklaring_loonheffingen_opting_in"
-                  target="_blank"
-                  className="underline"
-                  data-v-6764eb96
-                >
-                  loonheffingsverklaring
-                </a>{" "}
-                in voor de Belastingdienst, zodat we op een juiste manier
-                loonheffing en ZvW premie afdragen. Op deze manier zorgen we
-                ervoor dat jij netto het grootste bedrag overhoudt wanneer je de
-                opdracht uitvoert.
+                <b>Overeenkomst:</b> Je gaat een overeenkomst aan met Werk voor
+                Oranje betreffende de opdracht. Gedurende de opdracht kom je op
+                de loonlijst van Werk voor Oranje.
               </p>{" "}
               <p data-v-6764eb96>
-                Maandelijks zullen we een bedrag (uren x het tarief) factureren
-                aan de opdrachtgever en vervolgens na afdracht van onze fee
-                (15%) verlonen als brutoloon. Op deze manier kun je dus toch
-                prachtige opdrachten vervullen bij de mooiste
-                overheidsorganisaties.
+                <b> Detacheringsopdracht:</b> Met deze overeenkomst op zak voer
+                je jouw detacheringsopdracht uit bij een overheidsorganisatie.
+                Werk voor Oranje beheert het administratieve proces.
+              </p>
+              <p data-v-6764eb96>
+                <b>Loonheffingsverklaring:</b> Zowel jij als Werk voor Oranje
+                vullen een loonheffingsverklaring in voor de Belastingdienst.
+                Dit waarborgt correcte afdracht van loonheffing en ZvW-premie,
+                zodat jij netto het maximale bedrag behoudt.
+              </p>
+              <p data-v-6764eb96>
+                <b>Facturatie en Verloning:</b> Maandelijks factureren wij het
+                bedrag (uren x tarief) aan de opdrachtgever. Na aftrek van onze
+                fee (10%) verlonen we het resterende bedrag als brutoloon aan
+                jou. Zo kun je prachtige opdrachten uitvoeren bij gerenommeerde
+                overheidsorganisaties, terwijl Werk voor Oranje zorgt voor een
+                zorgeloze afwikkeling. Ontdek de vrijheid van detacheren met
+                Werk voor Oranje.
               </p>
             </div>
           </div>{" "}
