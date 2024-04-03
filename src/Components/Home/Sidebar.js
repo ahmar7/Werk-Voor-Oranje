@@ -6,20 +6,6 @@ const Sidebar = () => {
       className="bg-transparent h-full  border-t border-b border-r border-gray-300 rounded-br-xl rounded-tr-xl "
       data-v-4d4e8e34
     >
-      <div
-        className="hidden lg:block text-base text-gray-500 p-4"
-        data-v-4d4e8e34
-      >
-        <div
-          className="flex items-center justify-end space-x-1 px-2 "
-          data-v-4d4e8e34
-        >
-          <p className="font-semibold" data-v-4d4e8e34>
-            630
-          </p>
-          <p data-v-4d4e8e34>interim opdrachten gevonden</p>
-        </div>
-      </div>
       <div className="hidden lg:block w-full mx-auto" data-v-4d4e8e34>
         <div className="p-2  bg-indigo-600 ">
           <div className="flex items-center justify-between">

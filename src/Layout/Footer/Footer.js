@@ -65,11 +65,11 @@ const Footer = () => {
                   </li>
                   <li>
                     <NavLink
-                      to="/nieuws"
+                      to="/"
                       title="Nieuws"
                       className="text-base leading-6 text-white hover:text-gray-200"
                     >
-                      Interiem Opdrachten
+                      Alle interim opdrachten
                     </NavLink>
                   </li>
                   <li>

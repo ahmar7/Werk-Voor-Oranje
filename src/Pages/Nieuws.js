@@ -12,8 +12,8 @@ const Nieuws = () => {
       <Top />
       <div id="app" class="  antialiased">
         <Header />
-        <Banner />
-        <Blogs />
+        {/* <Banner /> */}
+        {/* <Blogs /> */}
         <div className="bottom-banner">
           <BottomBanner />
           <Footer />

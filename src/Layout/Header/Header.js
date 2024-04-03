@@ -389,7 +389,6 @@ const Header = () => {
                       aria-label="zoek opdrachten"
                       type="search"
                       placeholder="Zoeken"
-                      defaultValue
                       className="form-input block w-full pl-16 text-lg leading-5 p-4 rounded-full border focus:border-indigo-500 focus:outline-none"
                     />
                   </div>

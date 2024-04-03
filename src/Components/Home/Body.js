@@ -17,20 +17,6 @@ const Body = () => {
           data-v-4d4e8e34
         >
           <div
-            className="block lg:hidden text-base text-gray-500   "
-            data-v-4d4e8e34
-          >
-            <div
-              className="flex items-center space-x-2 w-64 mx-auto"
-              data-v-4d4e8e34
-            >
-              <p className="font-semibold" data-v-4d4e8e34>
-                630
-              </p>
-              <p data-v-4d4e8e34>interim opdrachten gevonden</p>
-            </div>
-          </div>
-          <div
             className="flex-cards
 
 "
@@ -105,7 +91,7 @@ const Body = () => {
                 className="mb-4 max-w-lg mx-auto sm:rounded-2xl shadow-lg overflow-hidden lg:max-w-none lg:flex  duration-200 ease-in-out transform border border-gray-200  hover:shadow-md "
                 data-v-4d4e8e34
               >
-                <div className="flex sm:hidden pt-12 px-8 bg-white lg:flex-shrink-0 mbp-no">
+                <div className="flex sm:hidden pt-5 px-8 bg-white lg:flex-shrink-0 mbp-no">
                   <img
                     src="https://freepapi-assets.s3.amazonaws.com/media/logos/None/stedin.png"
                     alt="zzp opdracht bij Stedin Groep"
@@ -315,7 +301,7 @@ const Body = () => {
                 className="mb-4 max-w-lg mx-auto sm:rounded-2xl shadow-lg overflow-hidden lg:max-w-none lg:flex  duration-200 ease-in-out transform border border-gray-200  hover:shadow-md "
                 data-v-4d4e8e34
               >
-                <div className="flex sm:hidden pt-12 px-8 bg-white lg:flex-shrink-0 mbp-no">
+                <div className="flex sm:hidden pt-2 px-8 bg-white lg:flex-shrink-0 mbp-no">
                   <img
                     src="https://freepapi-assets.s3.amazonaws.com/media/logos/None/stedin.png"
                     alt="zzp opdracht bij Stedin Groep"
@@ -532,7 +518,7 @@ const Body = () => {
                 className="mb-4 max-w-lg mx-auto sm:rounded-2xl shadow-lg overflow-hidden lg:max-w-none lg:flex  duration-200 ease-in-out transform border border-gray-200  hover:shadow-md "
                 data-v-4d4e8e34
               >
-                <div className="flex sm:hidden pt-12 px-8 bg-white lg:flex-shrink-0 mbp-no">
+                <div className="flex sm:hidden pt-2 px-8 bg-white lg:flex-shrink-0 mbp-no">
                   <img
                     src="https://freepapi-assets.s3.amazonaws.com/media/logos/None/gemeente-kampen-300x200.png"
                     alt="zzp opdracht bij Gemeente Kampen"
@@ -748,7 +734,7 @@ const Body = () => {
                 className="mb-4 max-w-lg mx-auto sm:rounded-2xl shadow-lg overflow-hidden lg:max-w-none lg:flex  duration-200 ease-in-out transform border border-gray-200  hover:shadow-md "
                 data-v-4d4e8e34
               >
-                <div className="flex sm:hidden pt-12 px-8 bg-white lg:flex-shrink-0 mbp-no">
+                <div className="flex sm:hidden pt-2 px-8 bg-white lg:flex-shrink-0 mbp-no">
                   <img
                     src="https://freepapi-assets.s3.amazonaws.com/media/logos/None/logo_dronten.png"
                     alt="zzp opdracht bij Gemeente Dronten"
@@ -964,7 +950,7 @@ const Body = () => {
                 className="mb-4 max-w-lg mx-auto sm:rounded-2xl shadow-lg overflow-hidden lg:max-w-none lg:flex  duration-200 ease-in-out transform border border-gray-200  hover:shadow-md "
                 data-v-4d4e8e34
               >
-                <div className="flex sm:hidden pt-12 px-8 bg-white lg:flex-shrink-0 mbp-no">
+                <div className="flex sm:hidden pt-2 px-8 bg-white lg:flex-shrink-0 mbp-no">
                   <img
                     src="https://freepapi-assets.s3.amazonaws.com/media/logos/50/logo-gemeente-soest.png"
                     alt="zzp opdracht bij Gemeente Soest"
@@ -1180,7 +1166,7 @@ const Body = () => {
                 className="mb-4 max-w-lg mx-auto sm:rounded-2xl shadow-lg overflow-hidden lg:max-w-none lg:flex  duration-200 ease-in-out transform border border-gray-200  hover:shadow-md "
                 data-v-4d4e8e34
               >
-                <div className="flex sm:hidden pt-12 px-8 bg-white lg:flex-shrink-0 mbp-no">
+                <div className="flex sm:hidden pt-2 px-8 bg-white lg:flex-shrink-0 mbp-no">
                   <img
                     src="https://freepapi-assets.s3.amazonaws.com/media/logos/50/logo-gemeente-soest.png"
                     alt="zzp opdracht bij Gemeente Soest"
@@ -1396,7 +1382,7 @@ const Body = () => {
                 className="mb-4 max-w-lg mx-auto sm:rounded-2xl shadow-lg overflow-hidden lg:max-w-none lg:flex  duration-200 ease-in-out transform border border-gray-200  hover:shadow-md "
                 data-v-4d4e8e34
               >
-                <div className="flex sm:hidden pt-12 px-8 bg-white lg:flex-shrink-0 mbp-no">
+                <div className="flex sm:hidden pt-2 px-8 bg-white lg:flex-shrink-0 mbp-no">
                   <img
                     src="https://freepapi-assets.s3.amazonaws.com/media/logos/320/logo_provincie_utrecht.png"
                     alt="zzp opdracht bij Provincie Utrecht"
@@ -1612,7 +1598,7 @@ const Body = () => {
                 aria-label="zzp opdracht jurist vth met taakaccent bezwaar en beroep op huisvesting arbeidsmigranten bij Gemeente Meierijstad"
                 style={{ display: "none" }}
               >
-                <div className="flex sm:hidden pt-12 px-8 bg-white lg:flex-shrink-0 mbp-no">
+                <div className="flex sm:hidden pt-2 px-8 bg-white lg:flex-shrink-0 mbp-no">
                   <img
                     src="https://freepapi-assets.s3.amazonaws.com/media/logos/None/logo_meierijstad.png"
                     alt="zzp opdracht bij Gemeente Meierijstad"
